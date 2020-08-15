@@ -1,0 +1,142 @@
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+
+}
+
+.top-container {
+  background-color: #EAF6F6;
+  position:relative;
+  padding-top: 100px;
+}
+.middle-container{
+  margin:100px 0;
+}
+
+h1 {
+  margin:50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 4.625rem;
+  color: #66BFBF;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.875rem;
+  color: #66BFBF;
+  font-weight: bold;
+  padding: 10px;
+}
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+  font-weight: bold;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color:grey;
+  border-width:5px;
+  width:4%;
+}
+.bottom-cloud{
+  position:absolute;
+  left:250px;
+  bottom:300px;
+}
+.top-cloud{
+  position:absolute;
+  right:300px;
+  top:40px;
+}
+.footer-link{
+  color:#11999E;
+}
+.profile{
+  width:50%;
+  margin:80px auto 100px auto;
+}
+.skill-row{
+  width:50%;
+  margin:100px auto 100px auto;
+  text-align: left;
+}
+p{
+  line-height: 2;
+}
+.code{
+  width:25%;
+  float:left;
+  margin-right: 30px;
+}
+.art{
+  width: 25%;
+  float:right;
+  margin-left: 30px;
+}
+
+
+.skills{
+  margin-top: 5%;
+}
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+}
+
+.intro{
+  width:50%;
+  margin:auto;
+}
+
+a{
+  color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    margin:10px 20px;
+    text-decoration: none;
+}
+a:hover{
+  color:#EAF6F6;
+}
+.copyright{
+color:#EAF6F6;
+font-size: 0.75rem;
+padding:20px 0;
+}
+
+.classname {
+	background-color: #66BFBF;
+	-webkit-border-top-left-radius:28px;
+	-moz-border-radius-topleft:28px;
+	border-top-left-radius:28px;
+	-webkit-border-top-right-radius:28px;
+	-moz-border-radius-topright:28px;
+	border-top-right-radius:28px;
+	-webkit-border-bottom-right-radius:28px;
+	-moz-border-radius-bottomright:28px;
+	border-bottom-right-radius:28px;
+	-webkit-border-bottom-left-radius:28px;
+	-moz-border-radius-bottomleft:28px;
+	border-bottom-left-radius:28px;
+text-indent:0;
+	border:1px solid  #66BFBF;
+	display:inline-block;
+	color:#ffffff;
+	font-family:'Montserrat', sans-serif;
+	font-size:15px;
+	font-weight:bold;
+	font-style:normal;
+height:50px;
+	line-height:50px;
+width:140px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0 #2f6627;
+}.classname:hover {
+	background-color:#5cbf2a;
+}.classname:active {
+	position:relative;
+	top:1px;
+}
